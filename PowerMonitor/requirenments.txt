@@ -1,0 +1,3 @@
+azure-data-tables
+tuyapower
+json
